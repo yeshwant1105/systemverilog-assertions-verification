@@ -1,0 +1,10 @@
+sim/*
+!sim/.gitkeep
+formal/*.smt2
+formal/*.vcd
+*.vcd
+*.out
+a.out
+obj_dir/
+.DS_Store
+.vscode/
